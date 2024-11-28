@@ -4,7 +4,6 @@
 
 The **Tron Volume Bot** is an advanced, automated trading tool designed to enhance your trading experience in the TRON (TRX) blockchain ecosystem. Whether you're a trader, project owner, or investor, this bot provides reliable, seamless volume generation, liquidity boosting, and market analytics, making it a must-have tool for anyone in the TRON DeFi space.
 
----
 
 ## Key Features
 
@@ -32,7 +31,6 @@ The **Tron Volume Bot** is an advanced, automated trading tool designed to enhan
    - Optimized for speed and efficiency to ensure timely transactions.
    - Minimal impact on gas fees.
 
----
 
 ## Benefits
 
@@ -40,7 +38,6 @@ The **Tron Volume Bot** is an advanced, automated trading tool designed to enhan
 - **For Investors**: Gain insights into market trends and simulate trades to test strategies.
 - **For DeFi Enthusiasts**: Automate liquidity management tasks and stay ahead in TRON’s fast-moving ecosystem.
 
----
 
 ## Installation & Setup
 
@@ -85,7 +82,6 @@ Interval = 2.5
 [Token]
 ContractAddress = YOUR_TOKEN_ADDRESS_HERE
 ```
----
 
 ## Usage Guide
 
@@ -100,7 +96,6 @@ ContractAddress = YOUR_TOKEN_ADDRESS_HERE
 ### Security
 - Your private keys are securely handled by the bot. However, ensure you use a dedicated wallet to avoid risk exposure.
 
----
 
 ## Why Choose Tron Volume Bot?
 
@@ -109,7 +104,6 @@ ContractAddress = YOUR_TOKEN_ADDRESS_HERE
 3. **Customizable**: Fully adjustable to meet your unique requirements.
 4. **Supportive**: Comes with dedicated documentation and customer support.
 
----
 
 ## Pricing & Licensing
 
@@ -119,13 +113,11 @@ This tool is available with the following options:
 
 For detailed pricing, please contact me at **[alelxnieto.collin@gmail.com]**.
 
----
 
 ## Disclaimer
 
 This bot is for educational and testing purposes only. Use responsibly and in compliance with local regulations. The developers are not liable for any financial losses or misuse of this tool.
 
----
 
 ## Contact Us
 

@@ -84,7 +84,7 @@ Interval = 2.5
 
 [Token]
 ContractAddress = YOUR_TOKEN_ADDRESS_HERE
-
+```
 ---
 
 ## Usage Guide

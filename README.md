@@ -51,7 +51,7 @@ The **Tron Volume Bot** is an advanced, automated trading tool designed to enhan
 ### Installation Steps
 1. Clone the repository or download the package:
    ```bash
-   git clone https://github.com/dieharyeo/tron-volume-bot.git
+   git clone https://github.com/dieharye/tron-volume-bot.git
    cd tron-volume-bot
    ```
 2. Install dependencies:
@@ -110,7 +110,7 @@ This tool is available with the following options:
 - **Basic Plan**: Single-wallet support, limited features.
 - **Pro Plan**: Multi-wallet support, unlimited usage, priority support.
 
-For detailed pricing, please contact us at **[your email or website link]**.
+For detailed pricing, please contact me at **[alelxnieto.collin@gmail.com]**.
 
 ---
 

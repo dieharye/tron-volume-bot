@@ -1,0 +1,16 @@
+{
+  "name": "tron_volume_bot",
+  "version": "1.0.0",
+  "description": "Volume Bot by @antoinersx",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "build": "npm install"
+  },
+  "author": "antoinersx",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "path": "^0.12.7"
+  }
+}

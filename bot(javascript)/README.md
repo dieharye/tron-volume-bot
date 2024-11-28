@@ -52,7 +52,7 @@ The **Tron Volume Bot** is an advanced, automated trading tool designed to enhan
 1. Clone the repository or download the package:
    ```bash
    git clone https://github.com/dieharye/tron-volume-bot.git
-   cd tron-volume-bot/bot(javascript)
+   cd tron-volume-bot
    ```
 2. Install dependencies:
    ```bash

@@ -58,19 +58,6 @@ The **Tron Volume Bot** is an advanced, automated trading tool designed to enhan
    ```bash
    npm install
    ```
-3. Configure your settings in `config.json`:
-   ```json
-   {
-     "privateKey": "YOUR_PRIVATE_KEY",
-     "tokenAddress": "YOUR_TOKEN_CONTRACT_ADDRESS",
-     "targetVolume": 1000,
-     "tradeInterval": 60
-   }
-   ```
-4. Start the bot:
-   ```bash
-   npm start
-   ```
 
 ## Commands
 

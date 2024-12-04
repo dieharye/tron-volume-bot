@@ -1,5 +1,7 @@
 ![image](https://github.com/user-attachments/assets/00e252a4-b827-4ae4-8f74-1e2a6289d1e1)
-# Tron Volume Bot v1 (Wallet distribution and gathering funds features will be included in version 2)
+# Tron Volume Bot v1 
+
+(Wallet distribution and gathering funds features will be included in version 2)
 
 ### Empower Your TRON Trading Strategy
 

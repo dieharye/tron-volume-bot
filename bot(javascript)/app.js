@@ -21,6 +21,7 @@ async function mainMenu() {
     console.log(chalk.bgGreen("               \n"));
 }
 
+
 async function main() {
     await mainMenu();
     console.log("Get the full version here:", chalk.green("https://t.me/+glKuxUMA1Pw3ZTM0"))
